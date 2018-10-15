@@ -1,0 +1,19 @@
+h1 {
+  font-size: 100px;
+  font-family: monospace;
+}
+
+h2 {
+  font-size: 100px;
+  font-family: inherit;
+}
+
+.pic1 {
+  width: 500px;
+  height: 500px;
+}
+
+.pic2 {
+  width: 500px;
+  height: 500px;
+}
